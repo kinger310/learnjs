@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <!-- <script>alert('我不想执行');
+        alert('我也不想执行');</script> -->
+</head>
+
+<body>
+    <div>
+        <p>
+            JavaScript 能够直接写入 HTML 输出流中：
+        </p>
+
+        <script>
+            document.write("<h1>This is a heading</h1>");
+            document.write("<p>This is a paragraph.</p>");
+        </script>
+
+        <p>
+            您只能在 HTML 输出流中使用
+            <strong>document.write</strong>。 如果您在文档已加载后使用它（比如在函数中），会覆盖整个文档。
+        </p>
+
+        <p id="demo">A Paragraph.</p>
+
+        <button type="button" onclick="myFunction()">点击这里</button>
+
+        <p>
+            <b>注释：</b>myFunction 保存在名为 "myScript.js" 的外部文件中。
+        </p>
+
+        <script type="text/javascript" src="myScript.js"></script>
+
+    </div>
+    <div>
+        <a style="display:block" , href="http://www.z.cn">link</a>
+        <a href="http://www.z.cn">link</a>
+        <address style="display: inline;">address</address>
+
+        <div id="div_name" data-name="this is the self-defined data">show name</div>
+
+        <script>
+            window.onload = function () {
+                var div_name = document.getElementById("div_name");
+                console.log(div_name.dataset.name)
+            }
+        </script> </div>
+
+    <div>
+        <input type="text" disabled>
+
+        <input type="checkbox" value="1" checked>
+
+        <select>
+            <option value="1" selected>1</option>
+        </select>
+    </div>
+
+
+    <div>
+        <canvas id="canvas"></canvas>
+        <script>
+            var canvas = document.getElementById('canvas');
+            var ctx = canvas.getContext('2d');
+            ctx.fillStyle = 'green';
+            ctx.fillRect(10, 10, 100, 100);
+        </script>
+    </div>
+
+    <div>
+
+        <canvas id="canvas2" , style="display: block", height="500", width="500"></canvas>
+        <script>
+            var canvas = document.getElementById('canvas2');
+            var ctx = canvas.getContext('2d');
+            var draw = function (x1, y1, x2, y2, x3, y3, color, type) {
+                ctx.beginPath();
+                ctx.moveTo(x1, y1);
+                ctx.lineTo(x2, y2);
+                ctx.lineTo(x3, y3);
+                ctx[type + 'Style'] = color;
+                ctx.closePath();
+                ctx[type]();
+            }
+            draw(20, 20, 20, 120, 120, 120, 'red', 'fill')
+
+            ctx.beginPath();
+            ctx.arc(150, 150, 30, 0, 2 * Math.PI);
+            ctx.stroke();
+
+
+        </script>
+    </div>
+
+    <div>
+        {# 降级}
+    </div>
+
+    <div>
+        <ruby>漢
+            <rt>han</rt>
+        </ruby>
+        <details>
+            <summary>HTML5</summary>
+            This document teaches you everything you have to learn about HTML 5.
+        </details>
+        <menu>
+            <li>
+                <input type="checkbox" />Red</li>
+            <li>
+                <input type="checkbox" />Blue</li>
+        </menu>
+        <input type="number" />
+        <input type="datetime" />----选取时间、日、月、年（UTC时间）
+    </div>
+
+</body>
+
+</html>
