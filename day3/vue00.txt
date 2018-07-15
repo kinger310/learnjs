@@ -1,0 +1,31 @@
+1, 安装webpack webpack-cli vue vue-cli
+2，初始化项目，生成webpack类型的vue工程项目
+3，执行npm run dev运行项目
+4，分析项目目录结构
+5，有问题举手示意
+
+
+
+1，npm 管理项目使用的package.json
+2，npm init
+3, npm i vue vue-cli webpack webpack-cli -g
+4, vue 是我们库的核心core,vue-cli 提供cmd命令的API
+5，webpack 类似功能
+6，vue -V 查看我们vue和vue-cli是否安装成功 @version
+7, 基于我们的安装命令，新建vue项目（vue脚手架开发项目）
+8，命令：vue init webpack vue-shop
+
+
+
+Vue 工程化的项目是如何运行的？
+1，所有的项目已经初始化完成，依赖安装完成
+2，npm run dev,(npm 项目规范script对象下都是可以run的命令)
+3，run dev，其实就是启动webpack-dev-server开发服务器，让我们的页面可以开发调试
+4，webpack能够在webpack.dev.conf.js的配置下，按配置要求打包，处理，运行vue项目（使用到了webpack的核心，以及webpack-dev-server的插件）（cheap-module-eval-source-map）
+5，config/index.js 配置了我们dev-server 的基础启动规则，例如host,port(项目配置细节：https://webpack.js.org/configuration/dev-server/#devserver)
+
+6，npm run build(得到生产环境的构建成果，发布到生产环境机器)
+
+
+
+
