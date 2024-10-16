@@ -580,7 +580,7 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 💝全球频道👉全网,#genre#
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 ABC,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
