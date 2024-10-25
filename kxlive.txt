@@ -583,7 +583,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-ABC,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+CNN WORLD,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 中國環球,http://live.cgtn.com/500/prog_index.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
