@@ -1,37 +1,6 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 //
-💝永久免费👉公告,#genre#
-💝关注💝永久免费,http://ttkx.live:55/lib/aikan.php?id=cctv1
-💝公众号💝请勿购买,http://ttkx.live:55/lib/aikan.php?id=cctv15
-💝开心💝谨防受骗,http://ttkx.live:55/lib/aikan.php?id=cctv13
-💝软件💝如果付款,http://ttkx.live:55/lib/aikan.php?id=chcdz
-💝下载💝说明上当,http://ttkx.live:55/lib/aikan.php?id=chcjt
-💝APP💝申请退款,http://ttkx.live:55/lib/cqyx.php?id=cwjd
-👉👉把家里路由器,http://maomao.kandiantv.cn/douyu1.php?id=4246519
-👉👉换成支持ipv6,http://www.lizhinas.top:8688/rtp/239.252.220.179:5140
-👉👉支持所有线路,http://live.dxms.top/dwy/jyjc.php
-👉👉直播高清流畅,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-👉👉更换享受超清,http://183.66.15.138:4070/udp/235.254.198.97:1664
 
-💝全球频道👉全网,#genre#
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-CNN WORLD,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-CGTN英语,https://0472.org/hls/cgtn.m3u8
-睛彩篮球,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225895/main.m3u8
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-中國環球,http://live.cgtn.com/500/prog_index.m3u8
-CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-HBtv老挝,http://hikvision.city:880/HBTV.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-韩国国防,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-环球频道,http://live.cgtn.com/500/prog_index.m3u8
-动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 💝央视IPV6,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
@@ -178,6 +147,25 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
+💝全球频道👉全网,#genre#
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+CNN WORLD,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+CGTN英语,https://0472.org/hls/cgtn.m3u8
+睛彩篮球,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225895/main.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+中國環球,http://live.cgtn.com/500/prog_index.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+HBtv老挝,http://hikvision.city:880/HBTV.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+韩国国防,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+环球频道,http://live.cgtn.com/500/prog_index.m3u8
+动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 💝中国港澳👉天天,#genre#
 凤凰中文,https://shenxian.serv00.net/fhx.php?id=zw
